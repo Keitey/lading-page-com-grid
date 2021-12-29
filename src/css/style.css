@@ -41,7 +41,7 @@ body{
 .hero{
     grid-area: hero;
     height: 89vh;
-    background: url('/src/images/lemons.jpg') center center no-repeat;
+    background: url('../images/lemons.jpg') center center no-repeat;
     background-size: cover;
     position: relative;
     display: flex;
@@ -93,12 +93,12 @@ body{
 }
 
 .about .image.right{
-    background: url('/src/images/bridge.jpg') center center no-repeat;
+    background: url('../images/bridge.jpg') center center no-repeat;
     background-size: cover;
 }
 
 .about .image.left{
-    background: url('/src/images/sky.jpg') center center no-repeat;
+    background: url('../images/sky.jpg') center center no-repeat;
     background-size: cover;
 }
 
